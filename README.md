@@ -2,7 +2,8 @@
 
 1. Create a Google Form with the following questions. **NOTE: QUESTIONS MARKED REQUIRED(*) ARE REQUIRED FOR THE PYTHON PROGRAM. QUESTIONS MUST MATCH THE CASE AND THE WORDING AS SHOWN IN THE IMAGE.**
 
-<img width="326" alt="Google Forms Questionnaire" src="https://user-images.githubusercontent.com/66145155/171460196-ecdd25bb-02f2-46f4-bdbe-6dbcd767372a.png">
+<img width="430" alt="Google Form Questionnaire" src="https://user-images.githubusercontent.com/66145155/171505113-8369ce68-fcdd-4066-92b7-139e056b36aa.png">
+
 
 2. Check the corresponding Google Sheet and ensure all the fields present in the following image are the the same as yours.
 
