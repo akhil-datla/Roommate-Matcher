@@ -56,9 +56,9 @@ for df in gradeGenderDfs:
         row = df.loc[idx]
         student = row["Email Address"]
         prefs = [
-            row["Roomate Preference #1 Email"],
-            row["Roomate Preference #2 Email"],
-            row["Roomate Preference #3 Email"],
+            row["Roommate Preference #1 Email"],
+            row["Roommate Preference #2 Email"],
+            row["Roommate Preference #3 Email"],
         ]
 
         for pref in prefs:
